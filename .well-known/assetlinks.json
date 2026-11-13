@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.surya.islamicapp",
+        "sha256_cert_fingerprints": ["14:5B:C7:11:A7:38:26:05:EA:D2:B1:A4:5E:7A:12:BF:B6:C9:CB:D0:5C:27:F4:A5:15:8A:00:4B:20:08:4B:97"]
+      }
+    }]
