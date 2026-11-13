@@ -1,0 +1,30 @@
+{
+  "name": "Islamic App — Al-Qur'an, Sholat & Hadits",
+  "short_name": "Islamic App",
+  "description": "Aplikasi Islami lengkap: Al-Qur'an, Jadwal Sholat, Kompas Kiblat, Doa & Hadits, Kisah 25 Nabi, serta Kalkulator Zakat.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fdfbf7",
+  "theme_color": "#292524",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
